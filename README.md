@@ -12,3 +12,5 @@ Activity 4 - Isochrone fitting for the Pleiades cluster
 Activity 5 - Spectral types & spectrum template matching
 
 Activity 6 - Spectroscopic binary star orbit
+
+My students also completed a final project to redo one of these activities on a new "unknown" data set, write up a mini journal article, and present their results to the class.
