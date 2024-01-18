@@ -1,5 +1,5 @@
-# ASTR335
-Python activities for ASTR 335 (Astrophysics II - Stellar Structure & Evolution) in Fall 2023 at Mount Holyoke College.
+# Python activities for ASTR 335 
+In-class python notebooks created for my Fall 2023 Astrophysics II (Stellar Structure & Evolution) class at Mount Holyoke College. Students ran these notebooks in Google Colab. Each folder has the starting notebook, data sets, and the finished solution notebook. 
 
 Activity 1 - Python basics (arrays, math, plotting, reading in data)
 
