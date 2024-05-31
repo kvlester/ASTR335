@@ -1,5 +1,5 @@
 # Python activities for ASTR 335 
-In-class python notebooks created for my Fall 2023 Astrophysics II (Stellar Structure & Evolution) class at Mount Holyoke College. Students ran these notebooks in Google Colab. Each folder has the starting notebook, data sets, and the finished solution notebook. 
+In-class python notebooks created for my Fall 2023 Astrophysics II (Stellar Structure & Evolution) class at Mount Holyoke College. Students ran these notebooks in Google Colab. Each folder has the jupyter notebook and necessary data set(s) for each activity. 
 
 Activity 1 - Python basics (arrays, math, plotting, reading in data)
 
@@ -14,3 +14,5 @@ Activity 5 - Spectral types & spectrum template matching
 Activity 6 - Spectroscopic binary star orbit
 
 My students also completed a final project to redo one of these activities on a new "unknown" data set, write up a mini journal article, and present their results to the class.
+
+You're welcome to email me if you would like the solutions to the activities, or if you have any suggestions / comments on the activities!
